@@ -1,5 +1,3 @@
-# Anderson Ribeiro 👋
-
 ## Sobre mim
 
 - 💼 Atuando na área de Ensino em Tecnologia
