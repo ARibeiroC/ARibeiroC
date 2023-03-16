@@ -1,11 +1,7 @@
 ## Sobre mim
-
-- 💼 Atuando na área de Ensino em Tecnologia
-- 📖 Estou estudando:
-  * __React-Native__
-  * __Javascript__
-  * __Python__
-  * __ADS__ (Analise e Desenvolvimento de sistemas)
+Atualmente estou atuando no mercado como instrutor de informática PJ com alguns contratos, porém, minha paixão sempre foi programar, programo desde 2003 quando comecei a aprender action script, desenvolvi alguns projetinhos na época, posteriormente aprendi PASCAL (Delphy 7) e Visual Basic tudo muito básico, até que em 2016 comecei a ministrar aulas de PHP 5 em uma instituição, e foi ai que o mundo se transformou pra mim.
+Hoje estudo PHP 8, Python, Node.js e Analise e Desenvolvimento de Sistemas
+<br>
 <div>
   <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=ARibeiroC&show_icons=true&theme=dark">
   <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARibeiroC&layout=compact">
