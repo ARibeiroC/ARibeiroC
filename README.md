@@ -7,8 +7,8 @@
   * __Python__
   * __ADS__ (Analise e Desenvolvimento de sistemas)
 <div>
-  <img height="180em" width="300cm" src="https://github-readme-stats.vercel.app/api?username=ARibeiroC&show_icons=true&theme=dark">
-  <img height="180em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARibeiroC&layout=compact">
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=ARibeiroC&show_icons=true&theme=dark">
+  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARibeiroC&layout=compact">
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Ribeiro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
