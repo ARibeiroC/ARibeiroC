@@ -11,5 +11,5 @@
   <img height="180em" width="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARibeiroC&layout=compact">
 </div>
 <div>
-  <img src="https://pt.wikipedia.org/wiki/JavaScript#/media/Ficheiro:Unofficial_JavaScript_logo_2.svg">
+  <img height="100cm" src="https://pt.wikipedia.org/wiki/JavaScript#/media/Ficheiro:Unofficial_JavaScript_logo_2.svg">
 </div>
