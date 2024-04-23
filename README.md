@@ -1,8 +1,19 @@
-## Sobre mim
-Olá! Seja bem vindo ao meu perfil.
-Sou professor de cursos livre (profissionalizantes) desde 2009, passando por diversas unidades das mais conhecidas até as menos conhecidas, atuo nesta área com muita paixão e amor, pois, transmitir conhecimento é algo que não tem preço para mim, fazer parte da vida das pessoas, proporcionando algo que ela levará para toda sua vida é indescritível. Porém, nem tudo são flores, com a desvolorização gigantesca da educação no nosso país, passamos a ser considerados, profissionais de segunda classe, cada vez menos impactantes nas vidas das pessoas, que não querem alguém que as façam pensar e sim alguém que lhes dê as respostas de tudo, e por esse motivo, estou bucando me reposicionar no mercado, atualmente tenho uma micro empresa, que ministro aulas particulares e atraves de contratos com outras instituições, mas também, estou estudando mais a fundo a área de Analista de Software, Engenheiro de Software, Analista de Dados, Front-End, Back-End, Ciber Security, entre outros, afim buscar novas oportunidades.
-Tenho uma facilidade muito grande para resolver problemas, e amo programar, cada vez que uma funcionalidade (feature) passa pelo processo de testes e é validada, me faz saltar de alegria, visto que também tenho um alto nível para adquirir conhecimento, principalmente os mais complexos, assumo que a área da programação ganhou um novo integrante.
-Atualmente minhas linguagens que desenvolvo são: JavaScript ES6 e Python, porém, conheço um pouco de PHP também, Node.js, e estou estudando os frameworks (React, Flask, Django), e estou no ultimo semestre da faculdade de Analise e Desenvolvimento de Sistemas.
+<h1>Sobre mim!</h1>
+<p>Sou instrutor de cursos livre (profissionalizantes) de T.I desde 2009, adoro compartilhar conhecimentos, atualmente estou buscando me reposicionar no mercado, migrando para a área de Front-End, Back-End, FullStack, Desenvolvedor Mobile e Desenvolvedor de jogos.</p>
+<p>Sempre fui apaixonado por tecnologia e ciência, então, depois de anos atuando como instrutor, decidi que esta na hora de fazer uma outra coisa que eu amo muito, que é resolver problemas através de sistemas.</p>
+<h2>Um pouco mais de mim!</h2>
+<div>
+  <img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">
+</div>
+<p>Recentemente fui diagnosticado com AHSD (Altas Habilidades e Superdotação) e TDAH (Transtorno de Deficit de Atenção e Hiperatividade) com um QI geral de 125 estando dentro dos 2% à 4% da população com alto QI.</p>
+
+<h2>Qualidades</h2>
+<p>Criativo, Espontâneo, Comunicativo</p>
+
+<h2>Defeitos</h2>
+<p>Perfeccionista, Isolamento (Sempre que tenho que resolver problemas muito grandes), Automotivação Volátio</p>
+
+
 <br><br>
 ##
 
