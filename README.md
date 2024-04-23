@@ -5,7 +5,7 @@
 <div>
   <img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">
 </div>
-<p>Recentemente fui diagnosticado com AHSD (Altas Habilidades e Superdotação) e TDAH (Transtorno de Deficit de Atenção e Hiperatividade) com um QI geral de 125 estando dentro dos 2% à 4% da população com alto QI.</p>
+<p>Recentemente fui diagnosticado com AHSD (Altas Habilidades e Superdotação) e TDAH (Transtorno de Deficit de Atenção e Hiperatividade) com um QI geral de 125, estando dentro dos 2% à 4% da população com alto QI.</p>
 
 <h2>Qualidades</h2>
 <p>Criativo, Espontâneo, Comunicativo</p>
