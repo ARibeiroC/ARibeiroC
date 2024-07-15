@@ -14,7 +14,7 @@
 <p>Criativo, Espontâneo, Comunicativo</p>
 
 <h2>Defeitos</h2>
-<p>Perfeccionista, Isolamento (Sempre que tenho que resolver problemas muito grandes), Automotivação Volátio</p>
+<p>Vamos conversar...</p>
 
 
 <br><br>
