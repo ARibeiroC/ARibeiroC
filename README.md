@@ -1,7 +1,7 @@
 <h1>Sobre mim!</h1>
 <p>Sou instrutor de cursos livre (profissionalizantes) de T.I desde 2009, adoro compartilhar conhecimentos, atualmente estou buscando me reposicionar no mercado, migrando para a área de Front-End.</p>
 <p>Sempre fui apaixonado por tecnologia e ciência, então, depois de anos atuando como instrutor, decidi que esta na hora de fazer uma outra coisa que eu amo muito, que é resolver problemas através de sistemas.</p>
-<p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente continuo estudando CSS/SASS, JavaScrip, NodeJS, Python e venho me atualizando em PHP 8</p>
+<p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente domino as tecnologias de HTML, CSS/SASS e Javascript, mas continuo estudando outras tecnologias como: NodeJS, React, Python e PHP 8+</p>
 
 <h2>Um pouco mais de mim!</h2>
 <div>
