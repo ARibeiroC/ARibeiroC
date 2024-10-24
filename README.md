@@ -8,7 +8,7 @@
   <img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">
 </div>
 <h3>Sou Neuro Divergente</h3>
-<p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para me entender melhor e entender minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações.</p>
+<p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações.</p>
 
 <h2>Qualidades</h2>
 <p>Criativo, Espontâneo, Comunicativo</p>
