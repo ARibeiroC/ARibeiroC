@@ -1,20 +1,20 @@
 <h1>Sobre mim!</h1>
-<p>Sou instrutor de cursos livre (profissionalizantes) de T.I desde 2009, adoro compartilhar conhecimentos, atualmente estou buscando me reposicionar no mercado, migrando para a área de Front-End.</p>
-<p>Sempre fui apaixonado por tecnologia e ciência, então, depois de anos atuando como instrutor, decidi que esta na hora de fazer uma outra coisa que eu amo muito, que é resolver problemas através de sistemas.</p>
-<p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente domino as tecnologias de HTML, CSS/SASS e Javascript, mas continuo estudando outras tecnologias como: NodeJS, React, Python e PHP 8+.</p>
+<p>Sou desenvolvedor FullStack desde 2022 quando iníciei minha graduação em Análise e Desenvolvimento de Sistemas, ná época já conhecia sobre linguagem de programa, conhecia um pouco de Delphi e PHP.</p>
+<p>Atualmente estou envolvido com um projeto freelancer de desenvolver um ERP com um CMR e um E-commerce, para uma escola de Jiu-Jitsu e um projeto particular onde estou desenvolvendo também minha própria ERP, para genrenciar minhas atividades.</p>
+<p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), como hobby, queria desenvolver jogos, depois em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente domino as tecnologias de HTML, CSS, SASS/SCSS e Javascript e React, mas também estou aprimorando outras tecnologias como: NodeJS, Python e PHP 8+.</p>
 
 <h2>Um pouco mais de mim!</h2>
 <div>
   <img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">
 </div>
 <h3>Sou Neuro Divergente</h3>
-<p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações.</p>
+<p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações e explorar melhor minhas principais habilidades, como: "Velocidade de Aprendizagem", "Hiperfoco", "Busca pelos desafios".</p>
 
 <h2>Qualidades</h2>
 <p>Criativo, Espontâneo, Comunicativo</p>
 
 <h2>Defeitos</h2>
-<p>Vamos conversar...</p>
+<p>Te aguardo na entrevista.</p>
 
 
 <br><br>
