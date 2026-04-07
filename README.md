@@ -4,10 +4,12 @@
 <p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), como hobby, queria desenvolver jogos, depois em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente domino as tecnologias de HTML, CSS, SASS/SCSS e Javascript e React, mas também estou aprimorando outras tecnologias como: NodeJS, Python e PHP 8+.</p>
 
 ## Formações
-- Graduação | Analise e Desenvolvimento de Sistemas<br>
+- Graduação | Analise e Desenvolvimento de Sistemas
   Conclusão: 06/2024
 - Pós Graduação | Computação Forense e Perícia Digital<br>
-  Conclusão: Cursando - Previsão de conclusão em 11/2025
+  Conclusão: 11/2025
+- Pós Graduação | Defesa Cibernética
+  Conclusão: Cursando - Previsão de conclusão em: 09/2026
 
 ## Um pouco mais de mim!
 <div>
