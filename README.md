@@ -23,8 +23,6 @@
 
 ### Defeitos
 <p>Te aguardo na entrevista.</p>
-
-
 <br><br>
 ##
 <div style="display: inline_block">
