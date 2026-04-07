@@ -27,14 +27,6 @@
 
 <br><br>
 ##
-
-
-<div>
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api?username=ARibeiroC&show_icons=true&theme=dark">
-  <img height="150em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARibeiroC&layout=compact">
-</div>
-
-##
 <div style="display: inline_block">
  <img align="center" alt="Ribeiro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Ribeiro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
