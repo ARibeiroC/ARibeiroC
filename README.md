@@ -1,7 +1,12 @@
+# Anderson F Ribeiro Campos
+Desenvolvedor FullStack | React • Node.js | APIs REST • PostgreSQL | Aplicações Web Seguras (OWASP)
+
+
 # Sobre mim!
-<p>Sou desenvolvedor FullStack desde 2022 quando iníciei minha graduação em Análise e Desenvolvimento de Sistemas, ná época já conhecia sobre linguagem de programa, conhecia um pouco de Delphi e PHP.</p>
-<p>Atualmente estou envolvido com um projeto freelancer de desenvolver um ERP com um CMR e um E-commerce, para uma escola de Jiu-Jitsu e um projeto particular onde estou desenvolvendo também minha própria ERP, para genrenciar minhas atividades.</p>
-<p>Iniciei na programação a muitos anos atrás, na época de ActionScript (Flash), como hobby, queria desenvolver jogos, depois em 2016 tive que aprender PHP 5 para ministrar aulas de Desenvolvimento WEB, atualmente domino as tecnologias de HTML, CSS, SASS/SCSS e Javascript e React, mas também estou aprimorando outras tecnologias como: NodeJS, Python e PHP 8+.</p>
+<p>Desenvolvedor FullStack com foco em backend, atuando no desenvolvimento de aplicações web utilizando Node.js, JavaScript/TypeScript e bancos de dados relacionais.
+Possuo experiência na criação de APIs REST, autenticação com JWT e integração com banco de dados, sempre aplicando boas práticas de desenvolvimento e organização de código.
+Como diferencial, tenho especialização em Forense Computacional e estou em formação em Defesa Cibernética, o que me permite desenvolver soluções com foco em segurança, considerando vulnerabilidades e boas práticas baseadas no OWASP.
+Busco oportunidades como Desenvolvedor FullStack onde eu possa contribuir com soluções eficientes, seguras e escaláveis.</p>
 
 ## Formações
 - Graduação | Analise e Desenvolvimento de Sistemas
@@ -17,13 +22,6 @@
 </div>
 <h3>Sou Neuro Divergente</h3>
 <p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações e explorar melhor minhas principais habilidades, como: "Velocidade de Aprendizagem", "Hiperfoco", "Busca pelos desafios".</p>
-
-### Qualidades
-<p>Criativo, Espontâneo, Comunicativo</p>
-
-### Defeitos
-<p>Te aguardo na entrevista.</p>
-<br></br>
 ### Stacks
 <table>
   <tr>
