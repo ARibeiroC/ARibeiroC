@@ -22,7 +22,8 @@ Busco oportunidades como Desenvolvedor FullStack onde eu possa contribuir com so
 </div>
 <h3>Sou Neuro Divergente</h3>
 <p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações e explorar melhor minhas principais habilidades, como: "Velocidade de Aprendizagem", "Hiperfoco", "Busca pelos desafios".</p>
-### Stacks
+
+## Stacks
 <table>
   <tr>
     <td><img align="center" alt="Ribeiro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
