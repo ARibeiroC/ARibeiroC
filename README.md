@@ -23,6 +23,8 @@
 
 ### Defeitos
 <p>Te aguardo na entrevista.</p>
+<br></br>
+### Stacks
 <table>
   <tr>
     <td><img align="center" alt="Ribeiro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
