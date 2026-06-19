@@ -17,9 +17,8 @@ Busco oportunidades como Desenvolvedor FullStack onde eu possa contribuir com so
   Conclusão: Cursando - Previsão de conclusão em: 09/2026
 
 ## Um pouco mais de mim!
-<div>
-  <img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">
-</div>
+|<img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">|
+|---|
 <h3>Sou Neuro Divergente</h3>
 <p>Recentemente fui diagnosticado com algumas neuro-divergências, o que me abriu um mundo para entender melhor minhas limitações e minhas qualidades, isso me possibilitou saber como lidar de forma mais acertiva com as situações e explorar melhor minhas principais habilidades, como: "Velocidade de Aprendizagem", "Hiperfoco", "Busca pelos desafios".</p>
 
