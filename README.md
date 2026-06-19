@@ -9,12 +9,12 @@ Como diferencial, tenho especialização em Forense Computacional e estou em for
 Busco oportunidades como Desenvolvedor FullStack onde eu possa contribuir com soluções eficientes, seguras e escaláveis.</p>
 
 ## Formações
-- Graduação | Analise e Desenvolvimento de Sistemas
-  Conclusão: 06/2024
-- Pós Graduação | Computação Forense e Perícia Digital<br>
-  Conclusão: 11/2025
 - Pós Graduação | Defesa Cibernética
   Conclusão: Cursando - Previsão de conclusão em: 09/2026
+- Pós Graduação | Computação Forense e Perícia Digital<br>
+  Conclusão: 11/2025
+- Graduação | Analise e Desenvolvimento de Sistemas
+  Conclusão: 06/2024
 
 ## Um pouco mais de mim!
 |<img width="400px" src="https://pakhotin.org/wp-content/uploads/2024/03/14-1024x683.jpeg">|
